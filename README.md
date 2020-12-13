@@ -5,7 +5,7 @@
 <Strong>Fibonacci Series</Strong>
 </h1>
 <h2>
-Fibonacci Series in C programing language
+<Light>Fibonacci Series in C programing language</Light>
 </h2>
 
 Thanks for downloading!!
