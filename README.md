@@ -4,7 +4,8 @@
 
 <Strong>Fibonacci Series</Strong>
 </h1>
+<h2>
 Fibonacci Series in C programing language
+</h2>
 
-<br>
 Thanks for downloading!!
